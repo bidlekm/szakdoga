@@ -1,0 +1,7 @@
+﻿  Szakdoga.cpp
+C:\Users\bidle\source\repos\Szakdoga\Szakdoga\Szakdoga.cpp : warning C4005: '_OPENMP': macro redefinition
+C:\Users\bidle\source\repos\Szakdoga\Szakdoga\Szakdoga.cpp : message : see previous definition of '_OPENMP'
+C:\Users\bidle\source\repos\Szakdoga\Szakdoga\Szakdoga.cpp(521,53): warning C4838: conversion from 'size_t' to 'int' requires a narrowing conversion
+C:\Users\bidle\source\repos\Szakdoga\Szakdoga\Szakdoga.cpp(521,108): warning C4838: conversion from 'size_t' to 'int' requires a narrowing conversion
+C:\Users\bidle\source\repos\Szakdoga\Szakdoga\Szakdoga.cpp(521,164): warning C4838: conversion from 'size_t' to 'int' requires a narrowing conversion
+  Szakdoga.vcxproj -> C:\Users\bidle\source\repos\Szakdoga\Debug\Szakdoga.exe
